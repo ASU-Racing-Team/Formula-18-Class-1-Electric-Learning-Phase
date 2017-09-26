@@ -61,7 +61,3 @@
 - Code documentation best practices
 - PCB and circuit documentation best practices
 
-![alt text][IO]
-
-[IO]: https://github.com/ASU-Racing-Team/Formula-18-Class-1-Electric-Learning-Phase/blob/master/Embedded-SW/Stm32-Resources/IOPin_diagram.PNG
-
