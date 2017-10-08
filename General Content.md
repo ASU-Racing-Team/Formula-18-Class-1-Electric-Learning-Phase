@@ -1,21 +1,7 @@
 # Main Stuff
-## Formual Students Cars Electric Systems
-- Data Acquisition System (Sensors)
-- Telemetry
-- Dashboard
-- Engine Control Unit
-- ASU Racing Team Formula 17 Class 1
 ## Embedded Software
 ### C Programming Crash Course
-- Syntax
-- Bit Operators and common patterns
-- Memory Model and Data
-- Pointer Stuff
-- Compilation and Compiler Related Stuff
-- Project Architecture (OOP Model)
 ### C++ Programming Crash Course
-- Class Based Object Oriented Programming
-- C++11 -> Lambda Expressions, constexpr, static_assert
 ### MCU Architecture and Quik Overview
 ### AVR Crash Course
 - AVR GPIO, ADC, Timers, Interrupts
@@ -46,6 +32,11 @@
 - PCB layout and routing
 - Component libraries
 - Hardware Considerations
+## Formual Students Cars Electric Systems
+- Data Acquisition System (Sensors)
+- Telemetry
+- Dashboard
+- Engine Control Unit
 ## General Collaboration Tools
 - Git and Github
 - Google Keep
