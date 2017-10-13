@@ -139,3 +139,5 @@ build a project with 3 LEDs and a button, at the start LED1 should be blinking o
 clicking the button once again should return to the first state (LED1 blinking, LED2 and LED3 are off)
 ## Project 3
 build a project with an LED and a button, initially the LED is off, clicking the button once makes the LED start blinking once every 1 second, clicking again makes the LED start blinking faster (once every half a second), clicking again should make the LED blink slower again.
+## Submission
+upload a file with the code and a screenshot of the schematic you used.
