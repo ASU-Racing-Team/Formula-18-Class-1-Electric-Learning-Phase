@@ -1,2 +1,0 @@
-# Microcontrollers Architecture
-## Processor
