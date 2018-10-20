@@ -46,7 +46,7 @@ templates is a C++ feature that is intended to replace C MACROS and be more powe
 ```C++
 
 template <class Ty>
-myType GetMax (Ty a, Ty b) {
+Ty GetMax (Ty a, Ty b) {
     return (a > b ? a : b);
 }
 
