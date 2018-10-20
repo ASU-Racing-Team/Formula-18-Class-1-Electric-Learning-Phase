@@ -41,3 +41,21 @@ int main(void){
     return 0;
 }
 ```
+### Templates
+templates is a C++ feature that is intended to replace C MACROS and be more powerful and easier to use, the most basic usage is for templating function to accept different data type as i
+```C++
+
+template <class Ty>
+myType GetMax (Ty a, Ty b) {
+    return (a > b ? a : b);
+}
+
+int x,y;
+GetMax <int> (x,y);
+```
+### Lambda Expressions
+a Lambda is function that lives inside a scope and can have no name
+```C++
+    auto glambda = [](auto a, auto b) { return a < b; };
+    bool b = glambda(3, 3.14);
+```
